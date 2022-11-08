@@ -8,4 +8,4 @@
 
 <h2>Palete of colors</h2>
 https://coolors.co/00a6fb-0582ca-006494-003554-051923
-<img src='https://coolors.co/00a6fb-0582ca-006494-003554-051923' alt="Tiago picture" width="250"/>
+<img src='https://coolors.co/00a6fb-0582ca-006494-003554-051923' alt="palete of colors" width="250"/>
