@@ -8,7 +8,7 @@
 
 <h2>Palete of colors</h2>
 
-<img src='https://github.com/tiagoschubert/seuaqua/blob/main/image/palete.png?raw=true' alt="palete of colors" width="650px"/>
+<img src='https://github.com/tiagoschubert/seuaqua/blob/main/image/palete.png?raw=true' alt="palete of colors" width="850px"/>
 <p>Blue Jeans - 00a6fb </p>
 <p>Green Blue Crayola - 0582ca </p>
 <p>Sapphire Blue - 006494</p>
