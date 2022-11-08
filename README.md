@@ -5,10 +5,10 @@
 1 - Wikipedia of fish
 </p>
 <p>
-2 - calculator of glass
+2 - Calculator of glass
   </p>
 <p>
-3 - calculator of fauna
+3 - Calculator of fauna
   </p>
 
 
