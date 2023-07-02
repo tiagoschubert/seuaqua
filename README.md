@@ -14,5 +14,9 @@
 <p>Sapphire Blue - 006494</p>
 <p>Prussian Blue - 003554</p>
 <p>Rich Black Fogra - 051923</p>
+
+<h2>Things to remember</h2>
+<p>. Good images</p>
+
 <h3>Source:</h3>
 <a href="https://coolors.co/00a6fb-0582ca-006494-003554-051923">https://coolors.co/00a6fb-0582ca-006494-003554-051923</a>
