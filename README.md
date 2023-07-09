@@ -19,7 +19,7 @@
 <p>. Good images</p>
 
 <h2>Wireframe </h2>
-<a href="(https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0)">(https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0)</a>
+<a href="https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0">https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0</a>
 
 <h3>Source:</h3>
 <a href="https://coolors.co/00a6fb-0582ca-006494-003554-051923">https://coolors.co/00a6fb-0582ca-006494-003554-051923</a>
