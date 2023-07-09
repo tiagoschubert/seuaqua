@@ -19,7 +19,7 @@
 <p>. Good images</p>
 
 <h2>Website Wireframe </h2>
-
+<img src='https://github.com/tiagoschubert/seuaqua/blob/main/image/website.png?raw=true' alt="palete of colors" width="850px"/>
 <a href="https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0">https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0</a>
 
 <h3>Source:</h3>
