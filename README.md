@@ -18,8 +18,7 @@
 <h2>Things to remember</h2>
 <p>. Good images</p>
 
-<h2>Wireframe </h2>
-![image](https://github.com/tiagoschubert/seuaqua/assets/51930058/fbd38580-4be4-428d-a0aa-374a76b1b3cc)
+<h2>Website Wireframe </h2>
 
 <a href="https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0">https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0</a>
 
