@@ -1,4 +1,4 @@
-<h1 textAlign="center">Seuaqua</h1>
+<h1 >Seuaqua</h1>
 
 <h2>Features</h2>
 <p>1 - Wikipedia of fish</p>
