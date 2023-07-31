@@ -18,7 +18,10 @@
 <h2>Things to remember</h2>
 <p>. Good images</p>
 
+<h2>Ideas </h2>
+<p>Make to search by some I.A </p>
 <h2>Website Wireframe </h2>
+
 <a href="https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0">https://www.figma.com/file/O1ihjtIOMrOBt8PPKCEluy/Seuaqua?type=whiteboard&t=JbvJUUO6VNkx8a0F-0</a>
 <img src='https://github.com/tiagoschubert/seuaqua/blob/main/image/website.png?raw=true' alt="palete of colors" width="850px"/>
 
