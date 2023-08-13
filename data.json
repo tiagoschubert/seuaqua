@@ -1,37 +1,14 @@
 
-
 [
-   {
+  {
     "id": 1,
     "name": "Peixe-dourado",
    
     "resumo": "O peixe-dourado, Carassius auratus, é uma espécie de água doce apreciada em aquários pela sua aparência colorida e comportamento ativo. Originários da Ásia, os peixes-dourados possuem variedades como o comum, telescópio, shubunkin e oranda. São adaptáveis, porém exigem espaço e cuidados adequados para se manterem saudáveis. Embora sejam robustos, é essencial oferecer um ambiente adequado para maximizar sua beleza.",
     
-    "Informacoes": "Manter um peixe-dourado saudável em um aquário requer cuidados específicos para garantir que suas necessidades sejam atendidas. Aqui estão algumas orientações essenciais:
-
-    Tamanho do Aquário: Peixes-dourados crescem e podem atingir tamanhos consideráveis. É aconselhável um aquário com capacidade mínima de 75 a 100 litros para um peixe-dourado, e adicionar 50 a 75 litros para cada peixe adicional.
+    "Informacoes": "Manter um peixe-dourado saudável em um aquário requer cuidados específicos para garantir que suas necessidades sejam atendidas. Aqui estão algumas orientações essenciais:\r\n\r\n    Tamanho do Aquário: Peixes-dourados crescem e podem atingir tamanhos consideráveis. É aconselhável um aquário com capacidade mínima de 75 a 100 litros para um peixe-dourado, e adicionar 50 a 75 litros para cada peixe adicional.\r\n    \r\n    Filtragem e Circulação: Um sistema de filtragem eficiente é fundamental. Peixes-dourados produzem muito resíduo, por isso é necessário um filtro que possa lidar com a carga biológica. Também é importante garantir uma boa circulação da água para manter o ambiente saudável.\r\n    \r\n    Decoração: Decore o aquário com substrato adequado, plantas resistentes e objetos que proporcionem áreas para esconder e explorar. Evite objetos afiados ou pontiagudos que possam machucar o peixe.\r\n    \r\n    Temperatura e pH: Peixes-dourados são mais resistentes a variações de temperatura, mas o ideal é manter a água entre 18°C e 23°C. O pH deve estar em torno de 6,5 a 7,5.\r\n    \r\n    Alimentação Balanceada: Ofereça uma dieta variada, incluindo pellets de qualidade específicos para peixes-dourados, além de alimentos vivos, congelados ou vegetais. Evite alimentar em excesso para evitar problemas de saúde.\r\n    \r\n    Manutenção Regular: Faça trocas parciais de água (cerca de 20-30% do volume total) a cada uma ou duas semanas para manter os níveis de nitrito, nitrato e amônia controlados. Limpe os resíduos do fundo e verifique a saúde dos peixes regularmente.\r\n    \r\n    Companhia e Espaço: Peixes-dourados são sociáveis, mas evite superpopulação. Mantenha grupos de peixes da mesma espécie ou de variedades compatíveis. Evite misturar com espécies mais agressivas.\r\n    \r\n    Monitoramento da Saúde: Esteja atento a sinais de doenças, como apatia, perda de apetite, manchas ou mudanças comportamentais. Isolamento imediato de um peixe doente é importante para evitar a propagação de doenças.\r\n    \r\n    Evite Aquários Pequenos: Evite manter peixes-dourados em aquários pequenos, pois isso pode afetar sua saúde e crescimento. Eles precisam de espaço adequado para nadar e crescer.\r\n    \r\n    Pesquisa Contínua: Mantenha-se informado sobre as necessidades específicas dos peixes-dourados e esteja disposto a ajustar os cuidados com base em novas informações e aprendizados.\r\n    \r\n    Lembre-se de que peixes-dourados podem viver por muitos anos quando recebem os cuidados corretos. Portanto, é fundamental dedicar tempo e atenção à criação de um ambiente propício para o bem-estar desses peixes vibrantes."
     
-    Filtragem e Circulação: Um sistema de filtragem eficiente é fundamental. Peixes-dourados produzem muito resíduo, por isso é necessário um filtro que possa lidar com a carga biológica. Também é importante garantir uma boa circulação da água para manter o ambiente saudável.
-    
-    Decoração: Decore o aquário com substrato adequado, plantas resistentes e objetos que proporcionem áreas para esconder e explorar. Evite objetos afiados ou pontiagudos que possam machucar o peixe.
-    
-    Temperatura e pH: Peixes-dourados são mais resistentes a variações de temperatura, mas o ideal é manter a água entre 18°C e 23°C. O pH deve estar em torno de 6,5 a 7,5.
-    
-    Alimentação Balanceada: Ofereça uma dieta variada, incluindo pellets de qualidade específicos para peixes-dourados, além de alimentos vivos, congelados ou vegetais. Evite alimentar em excesso para evitar problemas de saúde.
-    
-    Manutenção Regular: Faça trocas parciais de água (cerca de 20-30% do volume total) a cada uma ou duas semanas para manter os níveis de nitrito, nitrato e amônia controlados. Limpe os resíduos do fundo e verifique a saúde dos peixes regularmente.
-    
-    Companhia e Espaço: Peixes-dourados são sociáveis, mas evite superpopulação. Mantenha grupos de peixes da mesma espécie ou de variedades compatíveis. Evite misturar com espécies mais agressivas.
-    
-    Monitoramento da Saúde: Esteja atento a sinais de doenças, como apatia, perda de apetite, manchas ou mudanças comportamentais. Isolamento imediato de um peixe doente é importante para evitar a propagação de doenças.
-    
-    Evite Aquários Pequenos: Evite manter peixes-dourados em aquários pequenos, pois isso pode afetar sua saúde e crescimento. Eles precisam de espaço adequado para nadar e crescer.
-    
-    Pesquisa Contínua: Mantenha-se informado sobre as necessidades específicas dos peixes-dourados e esteja disposto a ajustar os cuidados com base em novas informações e aprendizados.
-    
-    Lembre-se de que peixes-dourados podem viver por muitos anos quando recebem os cuidados corretos. Portanto, é fundamental dedicar tempo e atenção à criação de um ambiente propício para o bem-estar desses peixes vibrantes."
-    
-  },
+  }
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org",
     "company": {
